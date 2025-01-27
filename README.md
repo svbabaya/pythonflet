@@ -1,2 +1,2 @@
 ## pythonflet
-Some code whit flet.
+Some code whith flet.
